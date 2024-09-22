@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Arch Config Automation<br>👯 I’m looking to collaborate on Hyprland Auto Installer<br>🌱 I’m currently learning Rust, Bash <br> 📚 All My Projects can be found at [Wraient](https://github.com/Wraient?tab=repositories) <br> 🐧 I use Arch Btw! I use linux to roleplay as a sys admin 🫣 (I do have a self-hosted server) 
+🔭 I’m currently working on [Curd](https://github.com/Wraient/curd)<br>👯 I’m looking to collaborate on [HyprInsomnia](https://github.com/Wraient/hyprinsomnia)<br>🌱 I’m currently learning Rust, Bash <br> 📚 All My Projects can be found at [Wraient](https://github.com/Wraient?tab=repositories) <br> 🐧 I use Arch Btw! I use linux to roleplay as a sys admin 🫣 (I do have a self-hosted server) 
 
 [![](https://visitcount.itsvg.in/api?id=wraient&icon=0&color=0)](https://visitcount.itsvg.in)
 
