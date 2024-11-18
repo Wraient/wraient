@@ -1,5 +1,5 @@
 # 💫 About Me:
-I like computers <br> 🔭 I’m currently working on [Curd](https://github.com/Wraient/curd)<br> 📚 All My Projects can be found at [Wraient](https://github.com/Wraient?tab=repositories) <br> 🐧 I use Arch Btw! I use linux to roleplay as a sys admin 🫣 (I do have a self-hosted server) 
+I like computers <br> 🔭 I’m currently working on Myself<br> 📚 All My Projects can be found at [Wraient](https://github.com/Wraient?tab=repositories) <br> 🐧 I use Arch Btw! I use linux to roleplay as a sys admin 🫣 (I do have a self-hosted server) 
 
 ## 🌐 Socials:
 <a href="https://discordapp.com/users/500639506308005911" target="_blank">
